@@ -22,17 +22,17 @@
 # 截图预览
 
 ## 用户端
-![输入图片说明](src/fix1.jpg)
-![输入图片说明](src/fix2.jpg)
-![输入图片说明](src/fix3.jpg)
+![输入图片说明](fix1.jpg)
+![输入图片说明](fix2.jpg)
+![输入图片说明](fix3.jpg)
 
 ## 技师端
-![输入图片说明](src/jfix1.jpg)
-![输入图片说明](src/jfix2.jpg)
+![输入图片说明](jfix1.jpg)
+![输入图片说明](jfix2.jpg)
 
 
 ## 管理后台运营端
-![输入图片说明](src/admin.png)
+![输入图片说明](admin.png)
 
 # 联系我获取源码~~
 ![输入图片说明](IMG_7278.JPG)
